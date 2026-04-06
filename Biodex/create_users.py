@@ -3,8 +3,8 @@ import pickle
 
 # User data
 usernames = ['naseem', 'alex']
-names = ['Mohammed Naseem', 'Alex Johnson']
-passwords = ['password123', 'secure456']
+names = ['Alex Johnson']
+passwords = ['password123']
 
 # Correct way to hash in v0.4.2
 hasher = stauth.Hasher()
