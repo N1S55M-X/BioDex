@@ -2,6 +2,8 @@
 
 BioDex is an AI-powered zoology assistant built with Streamlit that can identify animals from images, fetch biological research, display habitat maps, and provide organism-related insights.
 
+## Short Description
+
 ## Features
 
 - Animal and organism image classification using Vision Transformer (ViT)
@@ -33,10 +35,19 @@ BioDex is an AI-powered zoology assistant built with Streamlit that can identify
 - Streamlit Authenticator
 - Tailwind CSS
 
-![WhatsApp Image 2026-04-06 at 5 44 24 PM](https://github.com/user-attachments/assets/b34adb8f-d2e1-4843-ac49-74772df15ab0)
-![WhatsApp Image 2026-04-06 at 5 46 21 PM](https://github.com/user-attachments/assets/343a7457-e6d5-4d02-8609-f7e95d29837b)
-![WhatsApp Image 2026-04-06 at 5 45 46 PM](https://github.com/user-attachments/assets/6da3f0af-29fa-493e-b90e-0aec26434e64)
-![WhatsApp Image 2026-04-06 at 5 45 58 PM](https://github.com/user-attachments/assets/7a3cdac7-d2fa-4299-a3ba-d4929d5c1796)
+![WhatsApp Image 2026-04-06 at 5 44 24 PM (1)](https://github.com/user-attachments/assets/874b4915-8f5d-4d02-8ca1-2e25ec921790)
+
+![WhatsApp Image 2026-04-06 at 6 08 51 PM](https://github.com/user-attachments/assets/e3a46b3b-95d1-4951-bae4-ed219f63c5a7)
+
+![WhatsApp Image 2026-04-06 at 6 07 51 PM](https://github.com/user-attachments/assets/9b5191f4-0e0c-4bf6-b296-b1b16f79fcf1)
+
+![WhatsApp Image 2026-04-06 at 6 07 51 PM (1)](https://github.com/user-attachments/assets/370306cc-6006-401a-b320-ae64a896ae89)
+
+![WhatsApp Image 2026-04-06 at 6 08 04 PM](https://github.com/user-attachments/assets/c4ab0e88-e3df-44bd-bcc1-f76628739dac)
+
+![WhatsApp Image 2026-04-06 at 6 08 21 PM](https://github.com/user-attachments/assets/da0371de-c156-4a2e-a498-f62dc8bb7da2)
+
+
 
 ---
 
