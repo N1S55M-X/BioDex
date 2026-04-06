@@ -32,7 +32,7 @@ BioDex is an AI-powered zoology assistant built with Streamlit that can identify
 - BeautifulSoup
 - Streamlit Authenticator
 - Tailwind CSS
-- 
+
 ![WhatsApp Image 2026-04-06 at 5 44 24 PM](https://github.com/user-attachments/assets/b34adb8f-d2e1-4843-ac49-74772df15ab0)
 ![WhatsApp Image 2026-04-06 at 5 46 21 PM](https://github.com/user-attachments/assets/343a7457-e6d5-4d02-8609-f7e95d29837b)
 ![WhatsApp Image 2026-04-06 at 5 45 46 PM](https://github.com/user-attachments/assets/6da3f0af-29fa-493e-b90e-0aec26434e64)
