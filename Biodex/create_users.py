@@ -2,7 +2,7 @@ import streamlit_authenticator as stauth
 import pickle
 
 # User data
-usernames = ['naseem', 'alex']
+usernames = ['alex']
 names = ['Alex Johnson']
 passwords = ['password123']
 
